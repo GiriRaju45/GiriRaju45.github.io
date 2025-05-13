@@ -1,37 +1,50 @@
 ---
-layout: home
-title: "Giri Raju"
+title: Giri Raju
 ---
 
-Welcome to my portfolio!
+# 👋 Hi, I’m Giri Raju
 
-### 👨‍💻 About Me
+I'm a **Machine Learning Research Engineer** focused on **NLP, speech synthesis**, and **generative AI**. I love building impactful AI applications that helps people.
 
-I’m a Machine Learning Research Engineer specializing in NLP, speech synthesis, and generative AI. Passionate about building robust, user-centric AI applications.
-
-📄 [**Download Resume (PDF)**](./assets/Giri_Raju_CV.pdf){: .button}
-
-### 🔧 Skills
-- Python, PyTorch, TensorFlow, Hugging Face, Librosa
-- LangChain, Streamlit, Gradio
-- PostgreSQL, Chroma, Pinecone
-
-### 🏢 Work Experience
-**Hitloop (Nov 2024–Present)**  
-Built neural TTS and zero-shot voice cloning systems. Developed real-time dubbing platform.
-
-**AI4Bharat, IIT Madras (Oct 2022–Oct 2024)**  
-Led expressive speech synthesis efforts, trained high-quality TTS models.
-
-### 📚 Publications
-- *Rasa* – INTERSPEECH 2024  
-- *OOD TTS Systems* – INTERSPEECH 2024  
-- *IndicVoices-R* – NeurIPS 2024
-
-### 💡 Projects
-- [Stock Prediction with Sentiment + LSTM](https://github.com/GiriRaju45/Numerical-and-sentimental-analysis-for-stock-price-prediction---GRIP)
-- [Electronic Products Classifier](https://github.com/GiriRaju45/parspec-project)
-- [ML Interview Chatbot](https://github.com/GiriRaju45/ML_Interview_Chatbot-VisionNLP)
+[📄 Download Resume (PDF)](./assets/Giri_Raju_CV.pdf){: .btn }
 
 ---
-_Made with ❤️ and GitHub Pages_
+
+## 🛠️ Skills
+- **Technologies**: Generative AI, Speech Synthesis, Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Audio Processing, Computer Vision, Data Science
+- **Languages**: Python, Bash, SQL,  C++ (Intermediate)
+- **Frameworks**: PyTorch, TensorFlow, Hugging Face  
+- **Tools**: LangChain, Gradio, Streamlit, Git  
+- **Infra & Platforms**: Amazon Web Services (EC2, S3, SageMaker), Google Cloud Platform ( Basic Proficiency), Linux, Docker, NVIDIA GPUs  
+- **Python Packages**: HuggingFace (Datasets, Transformers), Librosa, Matplotlib, NLTK, NumPy, OpenCV, Pandas, PyTorch, SciPy, Seaborn, TensorFlow, Tkinter, audio processing libraries.			
+- **Databases & Vector DBs**: MySQL, PostgreSQL, Pinecone, Chroma
+
+---
+
+## 💼 Work Experience
+
+**🔹 Hitloop (Nov 2024 – Present)**  
+Bulding real-time dubbing platform with neural TTS and voice cloning models for Indian languages.
+
+**🔹 AI4Bharat, IIT Madras (Oct 2022 – Oct 2024)**  
+Led expressive speech synthesis efforts; built Indic TTS datasets and models.
+
+---
+
+## 📚 Publications
+
+- **Rasa** – INTERSPEECH 2024  
+- **OOD TTS Systems** – INTERSPEECH 2024  
+- **IndicVoices-R** – NeurIPS 2024  
+
+---
+
+## 🚀 Projects
+
+- [📈 Stock Prediction (NLP + LSTM)](https://github.com/GiriRaju45/Numerical-and-sentimental-analysis-for-stock-price-prediction---GRIP)  
+- [🔌 Product Classifier](https://github.com/GiriRaju45/parspec-project)  
+- [🤖 ML Interview Chatbot](https://github.com/GiriRaju45/ML_Interview_Chatbot-VisionNLP)
+
+---
+
+_This portfolio is built with [Jekyll](https://jekyllrb.com/) + Cayman, and hosted on [GitHub Pages](https://pages.github.com/)._

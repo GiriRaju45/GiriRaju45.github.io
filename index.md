@@ -5,7 +5,7 @@ title: Giri Raju
 # அனைவருக்கும் வணக்கம் 🙏 Hello all! 
 
 
-I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** and **generative AI**. Currently at [Hitloop](https://hitloop.com), I’m building real-time Indian language dubbing systems using neural TTS and building voice cloning systems. I previously contributed in research and building expressive speech synthesis models at [AI4Bharat, IIT Madras](https://ai4bharat.iitm.ac.in), where I developed high-quality datasets, models for Indian languages and internal tools/applications. I have previously interned at [unscript.ai](https://www.unscript.ai), [visionNLP.ai](https://www.visionnlp.com).
+I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** and **generative AI**. Currently at [Hitloop](https://hitloop.com), I’m building real-time Indian language dubbing systems using neural TTS and building voice cloning systems. I previously contributed in research and building expressive speech synthesis models at [AI4Bharat - IIT Madras](https://ai4bharat.iitm.ac.in), where I developed high-quality datasets, models for Indian languages and internal tools/applications. I have previously interned at [unscript.ai](https://www.unscript.ai), [visionNLP.ai](https://www.visionnlp.com).
 
 My experience spans **Generative AI with LLMs**, **Retrieval-Augmented Generation (RAG)** with [professional courses, projects and certifications](./certifications), and practical model development in **language, audio, and speech applications**. I also contribute to open-source and research with [publications](./publications) at INTERSPEECH and NeurIPS.
 
@@ -60,7 +60,6 @@ Led and contributed to expressive speech synthesis efforts for Indian languages;
 
 --- -->
 
-## 📬 Contact & Socials
 <!-- 
 - 📧 Email: [girirajur023@gmail.com](mailto:girirajur023@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giri-raju-787854200/)

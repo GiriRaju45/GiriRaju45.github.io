@@ -9,7 +9,7 @@ I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** a
 
 My experience spans **Generative AI with LLMs**, **Retrieval-Augmented Generation (RAG)** with [professional courses, projects and certifications](./certifications), and practical model development in **language, audio, and speech applications**. I also contribute to open-source and research with [publications](./publications) at INTERSPEECH and NeurIPS.
 
-I hold a BE in Computer Science and Engineering, specializing in AI and ML from Annamalai University, Tamil Nadu. 
+I hold a **BE in Computer Science and Engineering (AI & ML)**, specializing in AI and Machine Learning from **Annamalai University**, Tamil Nadu. 
 
 I love building things that are impactful, helpful for the people and contribute to the overall growth. 
 

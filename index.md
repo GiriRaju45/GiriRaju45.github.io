@@ -4,9 +4,8 @@ title: Giri Raju
 
 # அனைவருக்கும் வணக்கம் 🙏 Hello all! 
 
-👋 Hi, 
 
-I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** and **generative AI**. Currently at[Hitloop](https://hitloop.com), I’m building real-time Indian language dubbing systems using neural TTS and building voice cloning systems. I previously contributed to building expressive, speech synthesis models at [AI4Bharat, IIT Madras](https://ai4bharat.iitm.ac.in), where I developed high-quality datasets, models for Indian languages and internal tools/applications. I have previously interned at [unscript.ai](https://www.unscript.ai), [visionNLP.ai](https://www.visionnlp.com).
+I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** and **generative AI**. Currently at [Hitloop](https://hitloop.com), I’m building real-time Indian language dubbing systems using neural TTS and building voice cloning systems. I previously contributed in research and building expressive speech synthesis models at [AI4Bharat, IIT Madras](https://ai4bharat.iitm.ac.in), where I developed high-quality datasets, models for Indian languages and internal tools/applications. I have previously interned at [unscript.ai](https://www.unscript.ai), [visionNLP.ai](https://www.visionnlp.com).
 
 My experience spans **Generative AI with LLMs**, **Retrieval-Augmented Generation (RAG)** with [professional courses, projects and certifications](./certifications), and practical model development in **language, audio, and speech applications**. I also contribute to open-source and research with [publications](./publications) at INTERSPEECH and NeurIPS.
 
@@ -14,7 +13,12 @@ I hold a BE in Computer Science and Engineering, specializing in AI and ML from 
 
 I love building things that are impactful, helpful for the people and contribute to the overall growth. 
 
-[📄 Download Resume (PDF)](./assets/Giri_Raju_CV.pdf){: .btn }
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <a href="/assets/Giri_Raju_CV.pdf" 
+     style="background-color: #007ACC; color: white; font-size: 1.2em; font-weight: bold; padding: 14px 28px; border-radius: 8px; text-decoration: none;">
+    📄 Download Resume (PDF)
+  </a>
+</div>
 
 <!-- ---
 

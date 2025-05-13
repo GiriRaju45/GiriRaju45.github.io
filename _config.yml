@@ -1,6 +1,26 @@
 title: Giri Raju
 description: >-
-  ML Research Engineer | NLP | Generative AI
+  ML Engineer | NLP | Generative AI | Speech Synthesis
 theme: jekyll-theme-cayman
-url: "https://GiriRaju45.github.io"
+
+# Site Settings
+url: "https://GiriRaju45.github.io"  # Change if deploying in a project subfolder
+baseurl: ""  # Set to "/repo-name" only if using a project GitHub Pages site
+
 markdown: kramdown
+kramdown:
+  input: GFM
+
+# Analytics
+google_analytics: ""  # Optional: add tracking ID if you have one
+
+# Download Button in Cayman (optional)
+show_downloads: true
+
+# Files to ignore during build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

@@ -1,0 +1,12 @@
+title: "Giri Raju"
+description: "ML Research Engineer | NLP | Generative AI"
+baseurl: "" # keep this empty for user.github.io
+url: "https://GiriRaju45.github.io" # replace with your GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Giri Raju"
+  email: "girirajur023@gmail.com"

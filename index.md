@@ -2,7 +2,8 @@
 title: Giri Raju
 ---
 
-# அனைவருக்கும் வணக்கம் 🙏 Hello all! 
+<p style="font-size: 1.1em; text-align: center;">அனைவருக்கும் வணக்கம் 🙏 Hello all!</p>
+
 
 
 I'm a Machine Learning Engineer specializing in  **NLP**, **speech synthesis** and **generative AI**. Currently at [Hitloop](https://hitloop.com), I’m building real-time Indian language dubbing systems using neural TTS and building voice cloning systems. I previously contributed in research and building expressive speech synthesis models at [AI4Bharat - IIT Madras](https://ai4bharat.iitm.ac.in), where I developed high-quality datasets, models for Indian languages and internal tools/applications. I have previously interned at [unscript.ai](https://www.unscript.ai), [visionNLP.ai](https://www.visionnlp.com).
